@@ -49,6 +49,7 @@ dependencies:
   url_launcher: ^6.1.5
   equatable: ^2.0.4
   google_sign_in_web: ^0.10.2
+  neopop: ^1.0.2
 
 dev_dependencies:
   flutter_test:
